@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/agentic-arb-arbite/static/css/main.d20f20e2.css",
+    "main.js": "/agentic-arb-arbite/static/js/main.bbecac7a.js",
+    "static/js/453.98404a4f.chunk.js": "/agentic-arb-arbite/static/js/453.98404a4f.chunk.js",
+    "index.html": "/agentic-arb-arbite/index.html",
+    "main.d20f20e2.css.map": "/agentic-arb-arbite/static/css/main.d20f20e2.css.map",
+    "main.bbecac7a.js.map": "/agentic-arb-arbite/static/js/main.bbecac7a.js.map",
+    "453.98404a4f.chunk.js.map": "/agentic-arb-arbite/static/js/453.98404a4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d20f20e2.css",
+    "static/js/main.bbecac7a.js"
+  ]
+}
